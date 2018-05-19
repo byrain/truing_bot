@@ -1,4 +1,4 @@
-# truing_bot
+# truing-bot
 
 使用[tuling123](http://www.tuling123.com)的接口实现的图灵聊天机器人
 
