@@ -8,6 +8,12 @@ import (
 	"net/http"
 )
 
+func SetTuringBot(apiKey, userID, turingURL string) {
+	APIKEY = apiKey
+	USERID = userID
+	TuringURL = turingURL
+}
+
 type TuringMessageReq struct {
 	ReqType    int           `json:"reqType"`
 	Perception PerceptionReq `json:"perception"`
