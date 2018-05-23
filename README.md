@@ -2,13 +2,13 @@
 
 使用[tuling123](http://www.tuling123.com)的接口实现的图灵聊天机器人
 
-# how to ues
+## how to ues
 
 先去tuling123注册账号，然后在个人页面找到API KEY，添加到`turing/config.go`的APIKEY里
 
 go run main.go
 
-# example
+## example
 
 Input
 
